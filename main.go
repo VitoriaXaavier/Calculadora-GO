@@ -20,7 +20,7 @@ func main() {
 	case 3:
 		calculo.Divisão()
 	case 4:
-		calculo.Divisão()
+		calculo.Multiplicação()
 	default:
 		fmt.Println("Comando não encontrado")
 	}
